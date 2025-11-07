@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sociolingüística y la contabilidad</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.6.1/dist/reveal.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.6.1/dist/theme/white.css" id="theme">
+    <style>
+        body { font-family: 'Helvetica Neue', Arial, sans-serif; }
+        .reveal .slides section { padding: 40px; }
+        .title-slide { text-align: left; }
+        .title-slide h1 { color: #0b3d91; font-size: 3.0em; margin: 0 0 10px 0; }
+        .title-slide p.lead { color: #2c3e50; font-size: 1.2em; margin: 0 0 15px 0; }
+        .card { background: rgba(255,255,255,0.9); padding: 18px; border-radius: 12px; box-shadow: 0 6px 18px rgba(10, 30, 60, 0.12); display: inline-block; max-width: 900px; }
+        .highlight { background-color: #f1f9ff; padding: 12px; border-left: 6px solid #2b7cff; border-radius: 6px; }
+        .img-right { float: right; margin-left: 20px; max-width: 42%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.12); }
+        ul { margin-top: 10px; }
+        .footer-note { font-size: 0.9em; color: #666; margin-top: 14px; }
+        .big-quote { font-weight: 600; color: #1b3a82; }
+        .center { text-align: center; }
+        @media print { .img-right { display: none; } }
+    </style>
+</head>
+<body>
+    <div class="reveal">
+        <div class="slides">
+            <section class="title-slide">
+                <div class="card">
+                    <h1>Sociolingüística y la contabilidad</h1>
+                    <p class="lead">Lectura crítica aplicada al registro y control de documentos contables</p>
+                    <p><strong>Presentado por:</strong> Niki-0311</p>
+                    <p class="footer-note">Curso: Lectura Crítica — Contaduría Pública</p>
+                </div>
+                <aside class="notes">Buenas tardes. Soy Niki-0311. Esta presentación muestra la relación entre sociolingüística y el registro contable, con ejemplos claros y una dinámica práctica.</aside>
+            </section>
+
+            <section>
+                <h2>¿Qué es la sociolingüística?</h2>
+                <img class="img-right" src="https://images.unsplash.com/photo-1552664730-d307ca884978?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" alt="Grupo discutiendo" />
+                <div class="card">
+                    <ul>
+                        <li>Estudia cómo el lenguaje se relaciona con la sociedad y los contextos profesionales.</li>
+                        <li>Analiza variaciones según región, grupo social, profesión y situación comunicativa.</li>
+                        <li>Explica cómo el lenguaje refleja identidades, poder y roles.</li>
+                    </ul>
+                </div>
+                <aside class="notes">Explica con ejemplos: cómo hablamos distinto con un cliente que con un auditor; la importancia de adaptar registro y elegir términos comprensibles.</aside>
+            </section>
+
+            <section>
+                <h2>¿Qué es el registro y control de documentos contables?</h2>
+                <img class="img-right" src="https://images.unsplash.com/photo-1554224155-6726b3ff858f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" alt="Documentos contables" />
+                <div class="card">
+                    <ul>
+                        <li>Proceso de documentar, organizar y verificar transacciones financieras.</li>
+                        <li>Incluye facturas, notas de débito/crédito, balances y registros auxiliares.</li>
+                        <li>Busca precisión, legalidad y trazabilidad para auditorías y toma de decisiones.</li>
+                    </ul>
+                </div>
+                <aside class="notes">Resalta que los documentos son la evidencia contable; mencionar consecuencias de registros incorrectos.</aside>
+            </section>
+
+            <section>
+                <h2>Asociación: Sociolingüística en el registro contable</h2>
+                <div class="card">
+                    <p>El lenguaje contable es una variedad lingüística profesional. La forma de comunicarnos debe adaptarse al interlocutor (clientes, auditores, colegas).</p>
+                    <ul>
+                        <li>Diferencias culturales o regionales afectan la interpretación de términos contables.</li>
+                        <li>Barreras de comunicación pueden llevar a errores al registrar transacciones.</li>
+                    </ul>
+                    <div class="highlight">
+                        <p class="big-quote">“Cada palabra mal entendida puede convertirse en un número equivocado.”</p>
+                    </div>
+                </div>
+                <aside class="notes">Comenta ejemplos breves: términos que cambian por región o empresa; la importancia de la precisión léxica.</aside>
+            </section>
+
+            <section>
+                <h2>Barreras de comunicación en contaduría</h2>
+                <img class="img-right" src="https://images.pixabay.com/photo/2017/02/01/09/57/barriers-2030134_960_720.jpg" alt="Barreras" />
+                <div class="card">
+                    <ul>
+                        <li>Diferencias terminológicas (“nota de débito” vs. “cargo”).</li>
+                        <li>Errores al transcribir por instrucciones poco claras o abreviaturas sin estándar.</li>
+                        <li>Tecnicismos innecesarios que confunden a no expertos.</li>
+                    </ul>
+                </div>
+                <aside class="notes">Invita al público a pensar en ejemplos reales que hayan visto en prácticas o trabajos.</aside>
+            </section>
+
+            <section>
+                <h2>Dinámica práctica: documento claro vs confuso</h2>
+                <div class="card">
+                    <p><strong>Documento claro:</strong> "Registrar cargo de $500 por servicios prestados. Fecha: 2025-11-07. Cuenta: 6220. Autorizado por: María Pérez."
+                    </p>
+                    <p><strong>Documento confuso:</strong> "Ndéb $500 srvcs prstds"</p>
+                    <p>Pide a 2-3 voluntarios que identifiquen errores y propongan correcciones.</p>
+                </div>
+                <aside class="notes">Dirige la dinámica: solicita observaciones (fechas, cuentas, comprobantes, firma). Anima a proponer redacciones claras.</aside>
+            </section>
+
+            <section>
+                <h2>Consecuencias de la mala comunicación</h2>
+                <div class="card">
+                    <ul>
+                        <li>Registros incorrectos y discrepancias en balances.</li>
+                        <li>Dificultades en auditorías y sanciones fiscales.</li>
+                        <li>Tiempo perdido en correcciones y pérdida de credibilidad.</li>
+                    </ul>
+                </div>
+                <aside class="notes">Da un ejemplo corto de una auditoría que detecta documentos faltantes o mal descritos y las consecuencias.</aside>
+            </section>
+
+            <section>
+                <h2>Soluciones prácticas</h2>
+                <div class="card">
+                    <ul>
+                        <li>Usar lenguaje accesible y adaptar tecnicismos al público.</li>
+                        <li>Evitar abreviaturas sin estandarizar; usar formularios completos cuando sea necesario.</li>
+                        <li>Confirmar la información antes de registrar (llamada, correo o checklist).</li>
+                        <li>Crear manual interno de términos contables y abreviaturas autorizadas.</li>
+                        <li>Capacitación continua en comunicación para el personal contable.</li>
+                    </ul>
+                </div>
+                <aside class="notes">Recomienda pasos prácticos que los estudiantes puedan aplicar en prácticas o futuros empleos.</aside>
+            </section>
+
+            <section>
+                <h2>Cierre</h2>
+                <div class="card center">
+                    <p class="big-quote">"Comunicar bien también es contabilizar bien."</p>
+                    <p class="big-quote">"Cada palabra mal entendida puede convertirse en un número equivocado."</p>
+                    <p class="footer-note">¿Preguntas? ¡Hablemos!</p>
+                </div>
+                <aside class="notes">Agradece, invita a preguntas y ofrece contacto o disponibilidad para ayudar a convertirlo a PPTX si lo desean.</aside>
+            </section>
+
+            <section>
+                <h2>Referencias y recursos</h2>
+                <div class="card">
+                    <ul>
+                        <li>Imágenes: Unsplash / Pixabay (enlaces integrados en el HTML).</li>
+                        <li>Manual sugerido: "Glosario de términos contables" (interno).</li>
+                    </ul>
+                </div>
+                <aside class="notes">Indica que el repositorio contiene la versión HTML y las notas para PPTX.</aside>
+            </section>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/reveal.js@4.6.1/dist/reveal.js"></script>
+    <script>
+        Reveal.initialize({
+            hash: true,
+            slideNumber: true,
+            transition: 'convex',
+            backgroundTransition: 'fade',
+            dependencies: []
+        });
+    </script>
+</body>
+</html>
